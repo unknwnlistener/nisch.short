@@ -1,10 +1,10 @@
 {
-  "baseUrl": "https://cass.run",
+  "baseUrl": "peaceful-easley-a7f683.netlify.app",
   "private": true,
   "scripts": {
     "shorten": "netlify-shortener"
   },
-  "author": "cassidoo",
+  "author": "nischal",
   "devDependencies": {
     "netlify-shortener": "^2.4.0"
   }

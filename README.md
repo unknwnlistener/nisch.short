@@ -1,6 +1,6 @@
-# cass.run
+# nisch.short
 
-My own lil URL shortener
+A clone of Cassidoo's Netlify shortener (cass.run)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/97d21626-4a0e-4a5b-b658-9f559133e4aa/deploy-status)](https://app.netlify.com/sites/cass-run/deploys)
 
